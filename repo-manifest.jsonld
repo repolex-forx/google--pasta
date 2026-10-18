@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google/pasta/commit/f007c5394db77e8606a3feaafd1e09c724376550",
       "git:hexsha": "f007c5394db77e8606a3feaafd1e09c724376550",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google/pasta/commit/39731d12b1336dc2e523b3451a0bb29c28308e69",
